@@ -1,0 +1,21 @@
+{
+  "name": "BodyRevolution",
+  "short_name": "BodyRev",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F0F2F5",
+  "theme_color": "#FF9933",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2964/2964514.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2964/2964514.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
